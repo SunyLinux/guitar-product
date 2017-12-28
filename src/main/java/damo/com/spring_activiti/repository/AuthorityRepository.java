@@ -1,0 +1,10 @@
+package damo.com.spring_activiti.repository;
+
+import damo.com.spring_activiti.domain.erm.Authority;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+/**
+ * Spring Data JPA repository for the Authority entity.
+ */
+public interface AuthorityRepository extends JpaRepository<Authority, String> {
+}
