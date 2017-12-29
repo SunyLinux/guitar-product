@@ -11,9 +11,10 @@ Base Frame:
 
 
 Design Plan:
-1. No Database,...
+1. Based on Log,...
 2. Import RocketMQ/Kafka
 3. Support TCP/IP,Dubbo Protocol
+https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 
 
 Notice
