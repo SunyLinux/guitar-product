@@ -1,7 +1,7 @@
 
 Base Frame:
 1. Fork from the [jhipster-sample-app],for original proj:https://github.com/jhipster/jhipster-sample-app /[org.address; www.jhipster.tech]</br>
-   a. Core Feature: a tiny erp prototype with workflow. light protocol with http. REST Api. idea of DDD design.</br>
+   a. Core Feature: a tiny erp prototype with workflow. light protocol with <b>https</b>. REST Api. idea of DDD design.</br>
    b. Init Des: Spring Boot + Angular.js[+H5] + JWT (Web-App) with font&back-end, Component of MicroServices.</br>
    c. Basic spring: IoC,AOP,Annotation; reflection, proxy of cglib. Aspect transaction & logging...</br>
    d. Ex-Functions: Metrics,Pic Upload, swagger api doc, ect</br>
